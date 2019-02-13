@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99c3b9"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:src="@drawable/glibro"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        />
+    <ImageView
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:src="@drawable/letras1"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:layout_width="380dp"
+        android:layout_height="60dp"
+        android:src="@drawable/letras2"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:src="@drawable/letras3"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="www.tepic.tecnm.mx/"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+</LinearLayout>

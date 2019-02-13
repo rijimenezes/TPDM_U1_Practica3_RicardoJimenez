@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b01a1dd2-c80d-4508-9e2a-f52bda19ef03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica2_ricardojimenez/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica2_ricardojimenez/Main3Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica2_ricardojimenez/Main4Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/bannerdam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/banneria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/bannerprolog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/bannertpdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/complete.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/duo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/duo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/escudo_itt_chica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/1497244598-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/26623.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/Exclusive Digital Posters from E3 2016.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/Minimalist1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/Minimalist2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/autumn-clouds-cold-691569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/banner.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/bannerdam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/banneria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/bannerprolog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/bannertpdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/blurred-background-close-up-colors-1438996.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/chisco.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/debian-infinite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/invertida7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/jier.JPEG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/jier2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/lenovo-wallpapers-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/fondos/nvidia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/invertida7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/medio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/drawable/taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPDM_U1_Practica2_RicardoJimenez/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main3Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main4Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/add_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/azulredondo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/glibro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hall9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/letras1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/letras2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/letras3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/redondeado.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/v1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/v4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/v5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1271780740">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="1664" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="1664" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="e#304#322#0" expanded="true" />
+                <element signature="e#894#919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/azulredondo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/redondeado.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TPDM_U1_Practica3_RicardoJimenez" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="TPDM_U1_Practica3_RicardoJimenez" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="TPDM_U1_Practica3_RicardoJimenez" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="tpdm_u1_practica3_ricardojimenez" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TPDM_U1_Practica3_RicardoJimenez" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="TPDM_U1_Practica3_RicardoJimenez" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Pixel_Pie" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ejercicio1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="mx.edu.ittepic.ricardojimenez.tpdm_u1_practica3_ricardojimenez" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Documentos\001_Doc\Itt\Semestre_8\Moviles\Aplicaciones\U1\TPDM_U1_Practica3_RicardoJimenez\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b01a1dd2-c80d-4508-9e2a-f52bda19ef03" name="Default Changelist" comment="" />
+      <created>1550073072537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550073072537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.17095116" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50064266" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.4993573" visible="true" weight="0.32884097" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Preview" weight="0.32969153" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main2Activity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/azulredondo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/redondeado.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main3Activity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mx/edu/ittepic/ricardojimenez/tpdm_u1_practica3_ricardojimenez/Main4Activity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#304#322#0" expanded="true" />
+            <element signature="e#894#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="5"
+    android:columnCount="2"
+    tools:context=".Main3Activity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_columnSpan="2"
+
+        android:src="@drawable/app0" />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app1"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app2"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app3"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app4"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app5"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app6"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app7"
+        />
+    <ImageView
+        style="@style/imagenesgrid"
+        android:src="@drawable/app8"
+        />
+
+</GridLayout>
